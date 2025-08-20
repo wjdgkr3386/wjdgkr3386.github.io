@@ -3,7 +3,7 @@
     "name": "Your Sidebar Name",
     "email": "none@example.org",
     "phone": "",
-    "website": "https://academicpages.github.io",
+    "website": "https://wjdgkr3386.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
@@ -26,7 +26,7 @@
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/wjdgkr3386"
       }
     ]
   },
@@ -83,14 +83,14 @@
       "name": "Paper Title Number 3",
       "publisher": "Journal 1",
       "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
+      "website": "http://wjdgkr3386.github.io/files/paper3.pdf",
       "summary": "This paper is about the number 3. The number 4 is left for future work."
     },
     {
       "name": "Paper Title Number 4",
       "publisher": "GitHub Journal of Bugs",
       "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
+      "website": "http://wjdgkr3386.github.io/files/paper3.pdf",
       "summary": "This paper is about fixing template issue #693."
     }
   ],
