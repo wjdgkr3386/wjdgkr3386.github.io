@@ -1,4 +1,4 @@
-[사이트]("https://wjdgkr3386.github.io/")
+https://wjdgkr3386.github.io/
 
 # Academic Pages
 
