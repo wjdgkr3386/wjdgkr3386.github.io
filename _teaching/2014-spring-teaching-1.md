@@ -1,20 +1,20 @@
 ---
-title: "강의 경험 1"
+title: "Teaching experience 1"
 collection: teaching
-type: "학부 과정"
+type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "대학교 1, 학과"
+venue: "University 1, Department"
 date: 2014-01-01
-location: "도시, 국가"
+location: "City, Country"
 ---
 
-이것은 강의 경험에 대한 설명입니다. 다른 게시물처럼 마크다운을 사용할 수 있습니다.
+This is a description of a teaching experience. You can use markdown like any other post.
 
-제목 1
+Heading 1
 ======
 
-제목 2
+Heading 2
 ======
 
-제목 3
+Heading 3
 ======
