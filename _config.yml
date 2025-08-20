@@ -1,18 +1,18 @@
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
+# which you arere expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "김정학 / Jeonhak's Academi"
+title                    : "김정학의 학술 포트폴리오"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "김정학"
+description              : &description "개인 웹사이트"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "김정학"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "간략한 자기소개"
+  location         : "대한민국 서울"
+  employer         : ""
   uri              : # URL
   email            : "none@example.org" 
 
@@ -81,11 +81,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: '서적'
   manuscripts:
-    title: 'Journal Articles'    
+    title: '학술 논문'    
   conferences:
-    title: 'Conference Papers'
+    title: '컨퍼런스 논문'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
